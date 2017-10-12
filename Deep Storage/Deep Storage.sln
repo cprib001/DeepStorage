@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Storage.Plugins", "Deep Storage.Plugins.csproj", "{D9136E69-2FE4-0D08-F723-748294C99482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Storage", "Deep Storage.csproj", "{1D9CC428-D366-AEB4-84CC-9ADCF9BEF19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Storage.Editor", "Deep Storage.Editor.csproj", "{2E38554B-BE23-088D-CA7A-0124C12FF7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9136E69-2FE4-0D08-F723-748294C99482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9136E69-2FE4-0D08-F723-748294C99482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9136E69-2FE4-0D08-F723-748294C99482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9136E69-2FE4-0D08-F723-748294C99482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9CC428-D366-AEB4-84CC-9ADCF9BEF19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9CC428-D366-AEB4-84CC-9ADCF9BEF19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9CC428-D366-AEB4-84CC-9ADCF9BEF19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9CC428-D366-AEB4-84CC-9ADCF9BEF19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E38554B-BE23-088D-CA7A-0124C12FF7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E38554B-BE23-088D-CA7A-0124C12FF7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E38554B-BE23-088D-CA7A-0124C12FF7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E38554B-BE23-088D-CA7A-0124C12FF7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
